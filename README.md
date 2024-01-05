@@ -17,4 +17,17 @@ Na meditação isso não é diferente, além de enfrentarmos os desafios naturai
 
 Não, a aplicação preza pelo máximo de simplicidade para que não haja nenhum tipo de distração. Recomenda-se até que coloque o celular em modo Avião quando for usar o aplicativo e meditar.
 
+### Como funciona?
+Existem 3 períodos pré-configurados:
+
+- **15-20min**
+- **20-30min**
+- **30-60min**
+
+Ao escolher, por exemplo, a opção **20-30min** a aplicação irá determinar um valor em segundos que varia entre 20 minutos e 30 minutos, ou seja, um range de 600 segundos.
+O sino pode soar em 00:20:15, 00:23:37, 00:29:02 ... quem sabe?
+Caso queria, por algum motivo, interromper sua sessão de meditação, após selecionar o período de tempo desejado aparecerá um botão de Parar, que irá cancelar o cronômetro da aplicação, forçando-o a começar sua sessão desde o início caso queira retomar a prática.
+
+
+
 
