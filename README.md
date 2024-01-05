@@ -13,6 +13,8 @@ Na meditação isso não é diferente, além de enfrentarmos os desafios naturai
 
 ### Tão simples ... nem uma imagenzinha? Música? nada?
 ![](./src/media/img/app.png)
+
+
 Não, a aplicação preza pelo máximo de simplicidade para que não haja nenhum tipo de distração. Recomenda-se até que coloque o celular em modo Avião quando for usar o aplicativo e meditar.
 
 
