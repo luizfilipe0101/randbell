@@ -11,4 +11,8 @@ O cérebro humano tem a habilidade de acostumar-se com períodos cronológicos d
 
 Na meditação isso não é diferente, além de enfrentarmos os desafios naturais da meditação, quando fazemos isso sempre no mesmo horário e com a mesma duração estipulada, nosso cérebro agita-se por saber que em breve o despertador soará, aumentando assim ainda mais a nossa ansiedade e comprometendo a nossa tão lutada atenção no nosso objeto de contemplação. 
 
+### Tão simples ... nem uma imagenzinha? Música? nada?
+[](./src/media/img/app.png)
+Não, a aplicação preza pelo máximo de simplicidade para que não haja nenhum tipo de distração. Recomenda-se até que coloque o celular em modo Avião quando for usar o aplicativo e meditar.
+
 
